@@ -1,4 +1,4 @@
-package com.example.sms.controller;
+package com.aryanstha.sms.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 
-import com.example.sms.entity.Student;
-import com.example.sms.service.StudentService;
+import com.aryanstha.sms.entity.Student;
+import com.aryanstha.sms.service.StudentService;
 
 @Controller
 public class StudentController {

@@ -1,13 +1,13 @@
-package com.example.sms.service.impl;
+package com.aryanstha.sms.service.impl;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.example.sms.entity.Student;
-import com.example.sms.repository.StudentRepository;
-import com.example.sms.service.StudentService;
+import com.aryanstha.sms.entity.Student;
+import com.aryanstha.sms.repository.StudentRepository;
+import com.aryanstha.sms.service.StudentService;
 
 @Service
 public class StudentServiceImpl implements StudentService {

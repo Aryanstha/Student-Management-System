@@ -1,4 +1,4 @@
-package com.example.sms.entity;
+package com.aryanstha.sms.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

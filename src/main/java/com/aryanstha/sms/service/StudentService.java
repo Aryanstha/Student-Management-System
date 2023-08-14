@@ -1,8 +1,8 @@
-package com.example.sms.service;
+package com.aryanstha.sms.service;
 
 import java.util.List;
 
-import com.example.sms.entity.Student;
+import com.aryanstha.sms.entity.Student;
 
 public interface StudentService {
 	
